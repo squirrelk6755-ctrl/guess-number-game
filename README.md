@@ -3,7 +3,7 @@
 A simple and interactive number guessing game built using **HTML, CSS, and JavaScript**.
 
 ## 🚀 Live Demo
-(Will be added after GitHub Pages deployment)
+https://squirrelk6755-ctrl.github.io/guess-number-game/
 
 ---
 
@@ -39,5 +39,3 @@ A simple and interactive number guessing game built using **HTML, CSS, and JavaS
 
 
 ---
-
-## 📂 Project Structure
